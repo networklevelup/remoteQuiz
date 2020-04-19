@@ -6,7 +6,7 @@
             type: "You are a remote work advocate",
             content: "Regularly"
         },
-        {
+        { 
             type: "You are able to work remotly",
             content: "Often"
         },

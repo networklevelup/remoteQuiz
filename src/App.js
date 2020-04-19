@@ -46,8 +46,6 @@ class App extends Component {
 
       // And swap it with the current element.
       temporaryValue = array[currentIndex];
-      /*array[currentIndex] = array[randomIndex];
-      array[randomIndex] = temporaryValue;*/
     }
 
     return array;
